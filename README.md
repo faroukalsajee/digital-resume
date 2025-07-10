@@ -45,8 +45,6 @@ digital-resume/
 ## 📞 Contact
 
 - **Email**: <faroukalsajee@gmail.com>
-- **LinkedIn**: [Farouk Alsajee](https://www.linkedin.com/in/faroukalsajee/)
-- **GitHub**: [faroukalsajee](https://github.com/faroukalsajee)
 
 ---
 
